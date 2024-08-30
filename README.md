@@ -1,2 +1,0 @@
-# lotukerfi
-Vefur um lotukerfið
